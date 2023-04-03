@@ -1,5 +1,5 @@
 # code-decipher
-Program to decipher encrypted message
+Software to decipher encrypted message
 
 Rebel_1 and Rebel_2 contain original file data. <br />
 Decipher.java contains methods to decode data. <br />
